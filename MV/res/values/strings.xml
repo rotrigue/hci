@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MV</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="title_activity_historial">Historial</string>
+    <string name="title_activity_configuracion">Configuracion</string>
+    <string name="title_activity_lineas">Lineas</string>
+    <string name="title_activity_busqueda">Busqueda</string>
+    <string name="title_activity_resultado">Resultado</string>
+
+</resources>
